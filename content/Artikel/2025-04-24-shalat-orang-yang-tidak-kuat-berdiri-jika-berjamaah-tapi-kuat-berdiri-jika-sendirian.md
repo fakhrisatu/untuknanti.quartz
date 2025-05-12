@@ -1,12 +1,7 @@
 ---
-title: Shalat Orang Yang Tidak Kuat Berdiri Jika Berjamaah Tapi Kuat Berdiri Jika Sendirian
-tags:
-    - fiqih
-    - shalat
-    - udzur
-date: 2025-04-24T13:02:06.391Z
-publish: true
+{"title":"Shalat Orang Yang Tidak Kuat Berdiri Jika Berjamaah Tapi Kuat Berdiri Jika Sendirian","tags":["fiqih","shalat","udzur"],"date":"2025-04-24T13:02:06.391Z","publish":true,"modified":"2025-05-12T10:40:06+08:00","created":"2025-05-12T10:19:40.227+08:00","PassFrontmatter":true,"updated":"2025-05-12T10:40:18.228+08:00"}
 ---
+
 
 Apa kata ulama tentang orang yang kuat shalat berdiri jika sendirian, namun tidak kuat berdiri jika berjama'ah?
 
@@ -23,7 +18,7 @@ Berkata Imam An-Nawawi dalam Radhatut Thalibin:
 > قُلْتُ: قَالَ الشَّافِعِيُّ ﵀ فِي (الْأُمِّ) وَالْأَصْحَابُ: لَوْ قَدَرَ أَنْ يُصَلِّيَ قَائِمًا مُنْفَرِدًا، وَإِذَا صَلَّى مَعَ الْجَمَاعَةِ احْتَاجَ أَنْ يُصَلِّيَ بَعْضَهَا مِنْ قُعُودٍ فَالْأَفْضَلُ أَنْ يُصَلِّيَ مُنْفَرِدًا.
 
 Berkata Al-Khathib Asy-Syirbini dalam Mughnil Muhtaj:
-> وَلَوْ أَمْكَنَ الْمَرِيضُ الْقِيَامَ مُنْفَرِدًا sبِلَا مَشَقَّةٍ وَلَمْ يُمْكِنْهُ ذَلِكَ فِي جَمَاعَةٍ إلَّا بِأَنْ يُصَلِّيَ بَعْضَهَا قَاعِدًا فَالْأَفْضَلُ الِانْفِرَادُ، وَتَصِحُّ مَعَ الْجَمَاعَةِ وَإِنْ قَعَدَ فِي بَعْضِهَا كَمَا فِي زِيَادَةِ الرَّوْضَةِ.
+> وَلَوْ أَمْكَنَ الْمَرِيضُ الْقِيَامَ مُنْفَرِدًا بِلَا مَشَقَّةٍ وَلَمْ يُمْكِنْهُ ذَلِكَ فِي جَمَاعَةٍ إلَّا بِأَنْ يُصَلِّيَ بَعْضَهَا قَاعِدًا فَالْأَفْضَلُ الِانْفِرَادُ، وَتَصِحُّ مَعَ الْجَمَاعَةِ وَإِنْ قَعَدَ فِي بَعْضِهَا كَمَا فِي زِيَادَةِ الرَّوْضَةِ.
 
 ## Madzhab Hanabilah
 Berkata Al-Mardawiy dalam Al-Inshaf:

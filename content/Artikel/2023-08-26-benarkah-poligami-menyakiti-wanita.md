@@ -1,15 +1,7 @@
 ---
-title: Benarkah Poligami Merugikan Wanita?
-tags:
-  - salafcenter
-  - syubhat
-  - poligami
-permalink: benarkah-poligami-merugikan-wanita
-modified: 2025-05-12T09:29:10+08:00
-created: 2023-08-26T07:53:59+08:00
-date: 2023-08-26T07:53:59+08:00
-publish: "true"
+{"title":"Benarkah Poligami Merugikan Wanita?","tags":["salafcenter","syubhat","poligami"],"modified":"2025-05-12T10:41:10+08:00","created":"2025-05-12T10:19:40.226+08:00","date":"2023-08-26T07:53:59+08:00","publish":true,"PassFrontmatter":true,"updated":"2025-05-12T10:41:10.171+08:00"}
 ---
+
 ## Di antara pertanyaan yang marak zaman sekarang: 
 >Jika poligini menyakiti perasaan wanita, mengapa syariat membolehkannya dan menjadikannya hak seorang laki-laki?
 

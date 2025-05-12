@@ -1,12 +1,7 @@
 ---
-title: Beda Dakwah dan Ta'lim
-tags:
-  - dakwah
-  - taklim
-modified: 2025-05-12T09:26:30+08:00
-created: 2025-05-12T07:53:32+08:00
-date: 2025-05-06T16:08:35.730Z
+{"title":"Beda Dakwah dan Ta'lim","tags":["dakwah","taklim"],"modified":"2025-05-12T20:34:04+08:00","created":"2025-05-12T10:19:40.225+08:00","date":"2025-05-06T16:08:35.730Z","publish":true,"PassFrontmatter":true,"updated":"2025-05-12T20:34:04.379+08:00"}
 ---
+
 
 Untuk memahami kenapa kajian itu boleh berbayar, perlu dimulai dari membedakan antara kegiatan dakwah dan ta'lim.
 

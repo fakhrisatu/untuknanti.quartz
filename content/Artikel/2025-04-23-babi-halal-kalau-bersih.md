@@ -1,14 +1,7 @@
 ---
-title: Babi Halal Kalau Bersih?
-tags:
-  - salafcenter
-  - syubhat
-  - poligami
-modified: 2025-05-12T09:29:10+08:00
-created: 2025-04-23T09:30:28+08:00
-date: 2025-04-23T09:30:28.478Z
-publish: "true"
+{"title":"Babi Halal Kalau Bersih?","tags":["salafcenter","syubhat","poligami"],"modified":"2025-05-12T09:29:10+08:00","created":"2025-05-12T10:19:40.229+08:00","date":"2025-04-23T09:30:28.478Z","publish":true,"PassFrontmatter":true,"updated":"2025-05-12T10:13:35.610+08:00"}
 ---
+
 "Kalau dulu orang bilang babi haram karena kotor? Kenapa sekarang tidak jadi halal karena sistem ternak babi sudah maju dan bersih?"
 
 Kurang lebih seperti itulah keresahan yang diungkapkan oleh seorang influencer. Intinya dia minta alasan yang logis, yang bisa dinalar, bukan yang based on faith.
