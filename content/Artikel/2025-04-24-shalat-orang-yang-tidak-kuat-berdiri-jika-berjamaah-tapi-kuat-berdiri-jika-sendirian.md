@@ -1,22 +1,11 @@
 ---
 title: Shalat Orang Yang Tidak Kuat Berdiri Jika Berjamaah Tapi Kuat Berdiri Jika Sendirian
-date: 2025-04-24T13:02:06.391Z
-categories:
-    - artikel
 tags:
     - fiqih
     - shalat
     - udzur
-topics: ""
-featured: false
-slug: tidak-kuat-shalt-berdiri-jamaah-kuat-sendirian
-keywords:
-    - berdiri
-    - duduk
-    - fiqih
-    - sakit
-    - shalat
-    - kuat
+date: 2025-04-24T13:02:06.391Z
+publish: true
 ---
 
 Apa kata ulama tentang orang yang kuat shalat berdiri jika sendirian, namun tidak kuat berdiri jika berjama'ah?
