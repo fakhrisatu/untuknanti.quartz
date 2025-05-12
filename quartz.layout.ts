@@ -25,6 +25,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        filter: (file) => file.slug! !== "index",
+      }),
+      condition: (page) => page.fileData.slug == "index",
+    }),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -62,7 +70,12 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        // exlude files with frontmatter property 'explorer' set to false
+        return node.file?.frontmatter?.publish?.valueOf() !== false 
+}
+    }),
   ],
   right: [],
 }
