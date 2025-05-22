@@ -1,10 +1,9 @@
 ---
 title: Babi Halal Kalau Bersih?
 tags:
-  - salafcenter
   - syubhat
-  - poligami
-modified: 2025-05-12T09:29:10+08:00
+  - babi
+modified: 2025-05-12T22:52:43+08:00
 created: 2025-04-23T09:30:28+08:00
 date: 2025-04-23T09:30:28.478Z
 publish: "true"
