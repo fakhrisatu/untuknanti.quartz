@@ -3,11 +3,13 @@ title: Stop Umrah Kejar Sensasi
 tags:
   - umrah
 aliases: 
-modified: 2025-05-22T15:15:36+08:00
+modified: 2025-05-22T15:49:59+08:00
 created: 2025-05-11T22:01:46+08:00
 date: 2025-05-11T22:01:46+08:00
 publish: "true"
 ---
+
+==Stop Umrah Kejar Sensasi==
 Maksudnya umrah kejar sensasi itu adalah orang yang umrah bukan murni atas dasar ketaatan, tapi cuma ingin merasakan bagaimana rasanya umrah. Yang dicari bukan murni ridha Allah, tetapi seperti apa rasanya naik pesawat,  rasanya tidur di hotel di Saudi, suasana di Makkah dan Madinah, suasana shalat di Masjidil Haram dan Nabawi, seperti apa rasanya thawaf, sai', i'tikaf dan tarawih di Masjidil Haram atau Nabawi, dan lain-lain. Yang dicari suananya, vibe-nya, sensasinya.
 
 Apakah ada yang seperti ini? Banyak

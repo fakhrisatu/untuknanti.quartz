@@ -6,9 +6,10 @@ tags:
   - udzur
 date: 2025-04-24T13:02:06.391Z
 publish: "true"
-modified: 2025-05-12T10:40:06+08:00
+modified: 2025-05-22T15:50:35+08:00
 created: 2025-05-12T10:19:40+08:00
 ---
+
 
 Apa kata ulama tentang orang yang kuat shalat berdiri jika sendirian, namun tidak kuat berdiri jika berjama'ah?
 

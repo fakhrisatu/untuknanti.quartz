@@ -3,11 +3,12 @@ title: Babi Halal Kalau Bersih?
 tags:
   - syubhat
   - babi
-modified: 2025-05-12T22:52:43+08:00
+modified: 2025-05-22T15:50:47+08:00
 created: 2025-04-23T09:30:28+08:00
 date: 2025-04-23T09:30:28.478Z
 publish: "true"
 ---
+
 "Kalau dulu orang bilang babi haram karena kotor? Kenapa sekarang tidak jadi halal karena sistem ternak babi sudah maju dan bersih?"
 
 Kurang lebih seperti itulah keresahan yang diungkapkan oleh seorang influencer. Intinya dia minta alasan yang logis, yang bisa dinalar, bukan yang based on faith.

@@ -1,14 +1,7 @@
 ---
-title: Kisah Persusuan Rasulullah ﷺ Oleh Halimah As-Sa'diyyah
-tags:
-  - sirah
-  - halimah
-  - rasulullah
-modified: 2025-05-12T09:03:22+08:00
-created: 2025-04-18T02:33:27+08:00
-date: 2025-04-18T02:33:27.979Z
-publish: "true"
+{"title":"Kisah Persusuan Rasulullah ﷺ Oleh Halimah As-Sa'diyyah","tags":["sirah","halimah","rasulullah"],"modified":"2025-05-12T09:03:22+08:00","created":"2025-05-12T10:19:40.228+08:00","date":"2025-04-18T02:33:27.979Z","publish":true,"PassFrontmatter":true,"updated":"2025-05-12T09:03:33.749+08:00"}
 ---
+
 
 *Ini adalah riwayat dari Halimah As-Sa'diyyah yang diterjemahkan secara bebas dari Kitab Al-Bidayah wan Nihayah, karya Ibnu Katsir.*
 -----

@@ -9,6 +9,7 @@ created: 2023-08-26T07:53:59+08:00
 date: 2023-08-26T07:53:59+08:00
 publish: "false"
 ---
+
 ## Di antara pertanyaan yang marak zaman sekarang: 
 >Jika poligini menyakiti perasaan wanita, mengapa syariat membolehkannya dan menjadikannya hak seorang laki-laki?
 
