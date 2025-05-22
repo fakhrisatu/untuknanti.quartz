@@ -17,6 +17,8 @@ export const sharedPageComponents: SharedLayout = {
         category: 'Announcements',
         // from data-category-id
         categoryId: 'DIC_kwDOOoXLhM4Cqc11',
+	reactionsEnabled: true,
+	inputPosition: "top",
       }
     }),
   ],
@@ -44,6 +46,21 @@ export const defaultContentPageLayout: PageLayout = {
         filter: (file) => file.slug! !== "index",
       }),
       condition: (page) => page.fileData.slug == "index",
+    }),
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'fakhrisatu/untuknanti.quartz',
+        // from data-repo-id
+        repoId: 'R_kgDOOoXLhA',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOOoXLhM4Cqc11',
+	reactionsEnabled: true,
+	inputPosition: "top",
+      }
     }),
   ],
   left: [
