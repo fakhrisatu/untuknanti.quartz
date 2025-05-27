@@ -4,7 +4,7 @@ tags:
   - kajianberbayar
   - polemik
 aliases: 
-modified: 2025-05-25T21:37:03+08:00
+modified: 2025-05-28T06:18:52+08:00
 created: 2025-05-25T21:26:33+08:00
 date: 2025-05-25T21:26:33+08:00
 publish: "true"
@@ -17,7 +17,7 @@ Walhasil, hubungan narasumber dengan peserta jadi begitu dekatnya, bahkan bisa l
 
 Apakah hal-hal tadi itu buruk? Tidak dengan sendirinya. Hanya saja, ketika hal-hal itu hanya bisa dirasakan oleh kelompok orang tertentu — dalam hal ini, orang-orang kaya — itu bisa jadi celah untuk setan untuk melalaikan berbagai pihak: panitia, narasumber, peserta, dan orang-orang yang tidak merasakan privilege/hak istimewa yang sama.
 
-Khawatirnya, panitia dan narasumber jadi kurang suka berbaur dengan mereka yang lapang rezekinya karena sudah nyaman berada dalam circle/lingkaran pergaulan orang-orang berada. Peserta jadi merasa punya kelebihan dibanding yang lain karena kedekatan yan cukup intim dengan para narasumber. Pernah makan bareng, olahraga bareng, ngobrol hati ke hati, dsb. Mereka yang tidak bisa merasakan itu jadi berburuk sangka kepada pihak-pihak tadi, khususnya narasumber dan panitia. Dalam hati mereka, narasumber dan panitia lebih suka berkumpul dengan orang-orang berduit dibanding mereka yang hidupnya pas-pas atau malah kekurangan.
+Khawatirnya, panitia dan narasumber jadi kurang suka berbaur dengan mereka yang kurang lapang rezekinya karena sudah nyaman berada dalam circle/lingkaran pergaulan orang-orang berada. Peserta jadi merasa punya kelebihan dibanding yang lain karena kedekatan yan cukup intim dengan para narasumber. Pernah makan bareng, olahraga bareng, ngobrol hati ke hati, dsb. Mereka yang tidak bisa merasakan itu jadi berburuk sangka kepada pihak-pihak tadi, khususnya narasumber dan panitia. Dalam hati mereka, narasumber dan panitia lebih suka berkumpul dengan orang-orang berduit dibanding mereka yang hidupnya pas-pas atau malah kekurangan.
 
 Apakah hal-hal di atas sudah benar-benar terjadi? Harapan kami: belum dan tidak akan terjadi. Namun, dalam Islam, sudah biasa memperingatkan hal-hal yang berpotensi jadi lahan permainan setan agar kita waspada karena manusia itu memang mudah salah dan lupa.
 
