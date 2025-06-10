@@ -1,3 +1,14 @@
+---
+title: Kenapa Ada Orang Bisa Tidur Kurang dari 6 Jam Per Hari?
+tags:
+  - tidur
+  - sains
+aliases: 
+modified: 2025-06-10T23:06:52+08:00
+created: 2025-06-10T23:06:52+08:00
+date: 2025-06-10T23:06:52+08:00
+publish: "true"
+---
 Salah satu hal menarik yang dibahas oleh dr. Zakir Naik dalam video wawancara beliau oleh dr. Richard Lee yang ada di YouTube. Setelah menit ke-8, dr.Zakir Naik menceritakan tentang durasi tidur beliau yang hanya kisaran antara 3,5 sampai 4,5 jam sehari. Namun, bukan itu yang menarik. Yang menarik adalah ucapan beliau bahwa durasi tidur beliau itu sebenarnya tidak normal dan tidak baik ditiru karena bisa berakibat buruk bagi kebanyakan orang. Kata beliau, durasi tidur normal manusia itu antara 7-8 jam per hari. Tidur kurang 7 jam yang berulang-ulang bisa berakibat buruk bagi fisik seseorang. 
 
 Lalu bagaimana dengan beberapa orang yang mampu tidur kurang dari 7 jam namun tidak merasakan efek negatif apapun? Beliau menjelaskan bahwa itu adalah bersifat genetik atau bawaan sejak lahir. Berdasarkan penelitian, hanya 1 dari 200 orang yang bisa tidur kurang dari 7 jam per hari tanpa efek samping. Itu lah sebabnya mengapa beliau tidak menyarankan orang lain untuk meniru pola tidur beliau.
