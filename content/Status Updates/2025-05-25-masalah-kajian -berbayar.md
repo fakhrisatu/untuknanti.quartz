@@ -1,10 +1,10 @@
 ---
-title: Masalah Kajian Berbayar Sebenarnya
+title: Masalah Kajian Berbayar yang Sebenarnya
 tags:
   - kajianberbayar
   - polemik
 aliases: 
-modified: 2025-05-28T06:18:52+08:00
+modified: 2025-05-28T13:25:52+08:00
 created: 2025-05-25T21:26:33+08:00
 date: 2025-05-25T21:26:33+08:00
 publish: "true"
