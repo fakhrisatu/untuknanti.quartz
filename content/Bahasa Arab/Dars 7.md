@@ -1,3 +1,13 @@
+---
+title: 
+tags:
+  - durusullughoh
+aliases: 
+modified: 2025-07-16T16:55:19+08:00
+created: 
+date: 
+publish: "false"
+---
 - # Tamrin 4
 	- Ubah dhamir تُمْ (untuk [[Mukhathab|mukhathab]] mudzakkar jama’) menjadi تُنَّ (mukhathab muannats jama’)
 - # Tamrin 5

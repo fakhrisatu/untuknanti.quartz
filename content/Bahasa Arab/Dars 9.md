@@ -1,9 +1,10 @@
 ---
 title: 
-tags: 
+tags:
+  - durusullughoh
 aliases: 
-modified: 2025-06-18T17:55:20+08:00
-created: 
+modified: 2025-07-18T11:21
+created: 2025-07-02T22:48
 date: 
 publish: "true"
 ---
@@ -40,7 +41,7 @@ Contoh:
 - Hamzatul washl adalah hamzah di awal kata yang hanya dibaca ketika dia di awal ucapan. Tetapi, jika berada di tengah ucapan atau didahului oleh huruf/kata lain, maka dia tidak diucapkan. 
 - Salah satu tempat hamzatul washl adalah pada alif lam (ال)
 - **Kaidah**: Ketika hamzatul istifham bertemu dengan hamzatul washl, maka hamzatul istifham dan hamzatul washl dilebur menjadi satu dan dibaca dengan *madd*.
-## Tamrin 10 : Dhomir Ya Mutakallim untuk Maf'ul Bihi
+## Tamrin 10 : Dhomir Ya Mutakallim sebagai Maf'ul Bihi
 - **Ya Mutakallim** adalah **dhomir muttashil** yang berupa huruf **ya' sakinah** yang berarti "saya".
 - **Kaidah:** Jika dia berada setelah fi'il, maka posisinya pasti **maf'ul bihi**, dan harus **diberi huruf Nun yang dikasroh** yang memisahkan antara fi'il dan dhomir ini.
 - Nun yang memisahkan antara fi'il dengan ya mutakkalim itu disebut dengan **Nunul Wiqoyah** (نون الوقاية)
@@ -51,4 +52,16 @@ Contoh:
 - Kalau kita ingin mengatakan, "Ahmad memukulku", maka urutannya adalah "Memukul" + "Ku" + "Ahmad" jadi ضربني أحمد
 - Sebaliknya, jika menerjemahkan jumlah fi'liyyah yang fai'ilnya berada setelah dhomir maf'ul bih, maka posisinya fa'il dengan maf'ul bih ditukar.
   Contoh: خلقني الله. Jangan diartikan "Menciptakan aku Allah". Yang benar, "Allah menciptakanku".
+## Tamrin 11 : Penulisan Alif Maqshuroh
+- Alif maqshuroh (ألف مقصورة) adalah alif yang berbentuk seperti huruf ya'.
+- Alif maqshuroh selalu berada di akhir kata.
+- Jika alif maqshuroh disambung dengan dhomir, maka secara penulisan dia berubah menjadi alif mamdudah (ألف ممدودة).
+- Alif mamdudah adalah alif tegak yang lebih banyak dikenal orang.
+## Tamrin 12 : Penggunaan Harful Jar dengan Ma Al-Istifhamiyyah
+- Ma al-istifhamiyyah (ما الاستفهامية) adalah kata ma untuk pertanyaan, yang berarti "apa?".
+- Istifham (استفهام) berarti kalimat tanya.
+- Harful jar ketika disambung dengan ma al-istifhamiyyah maka ada beberapa perubahan:
+	- Harful jar ditulis bersambung dengan ma.
+	- Jika huruf terakhir dari Harful jar itu adalah "nun" maka huruf "nun" di-idghom kepada huruf mim pada kata "ma".
+	- Huruf alif dari kata "ma" dihapus, sehingga dibaca tanpa mad. **Ini penting** karena jika huru alif dari "ma" tidak dihapus, maka berubah menjadi ma al-maushulah.
 - 
