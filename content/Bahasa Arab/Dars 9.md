@@ -3,7 +3,7 @@ title:
 tags:
   - durusullughoh
 aliases: 
-modified: 2025-07-18T11:21
+modified: 2025-07-20T21:07
 created: 2025-07-02T22:48
 date: 
 publish: "true"
@@ -64,4 +64,22 @@ Contoh:
 	- Harful jar ditulis bersambung dengan ma.
 	- Jika huruf terakhir dari Harful jar itu adalah "nun" maka huruf "nun" di-idghom kepada huruf mim pada kata "ma".
 	- Huruf alif dari kata "ma" dihapus, sehingga dibaca tanpa mad. **Ini penting** karena jika huru alif dari "ma" tidak dihapus, maka berubah menjadi ma al-maushulah.
-- 
+- Faidah : Dari sini kita bisa tahu pentingnya menjaga panjang dan pendek ketika membaca Al-Qur'an karena mengubah panjang pendek bisa mengubah makna. Contoh:
+	- Kata مِمَّ —tanpa alif di akhir, *mim* terakhir dibaca pendek— berarti "Dari apa …?"
+	- Kata مِمَّا — dengan alif di akhir, *mim* terakhir dibaca 2 harokat— berarti "Dari yang…"
+## Mufrodat Baru
+
+| **Mufrodat**   | **Arti**                                                   |
+| -------------- | ---------------------------------------------------------- |
+| قائمة ج قوائم  | Daftar (list), bisa juga berarti kolom dalam tabel         |
+| معنى           | Makna                                                      |
+| طين            | Tanah liat (clay), tanah yang sudah bercampur air.         |
+| نار            | Api, neraka. Kata ini muannats                             |
+| علاقة ج علاقات | Hubungan, keterkaitan.                                     |
+| لحظة           | Sesaat, sebentar                                           |
+| جرس ج أجراس    | Bel, lonceng                                               |
+| عدة            | Hitungan, beberapa (harus menjadi mudhof kepada kata lain) |
+| حضر            | Menghadiri, datang ke suatu tempat atau acara              |
+| خلق            | Menciptakan                                                |
+| رفع            | Mengangkat, meninggikan                                    |
+| أحسنتَ         | Kerja bagus. (Dhomir ت disesuaikan dengan lawan bicara)    |
