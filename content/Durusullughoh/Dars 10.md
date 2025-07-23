@@ -1,0 +1,44 @@
+---
+date: 2025-07-23T17:04
+modified: 2025-07-23T17:49
+title: 
+tags:
+  - durusullughoh
+aliases: 
+publish: "false"
+---
+## Tamrin 3 : Mengenal Fi'il Mudhori'
+1. Fi'il Mudhori' adalah fi'il yang digunakan untuk:
+	1. Pekerjaan di waktu sekarang. Contoh: Saya **sedang** menulis sebuah surat. 
+	2. Pekerjaan yang berulang-ulang atau rutin, baik di masa sekarang maupun di masa lalu. Contoh:
+		1. Ayah saya **bekerja** di pabrik gula.
+		2. Ibu **pergi** ke sawah **setiap pagi**.
+		3. Saya dulu **suka bermain** di sungai.
+	3. Perbuatan yang belum dilakukan atau akan dilakukan di masa yang akan datang. Contoh:
+		1. Hasan **belum membeli** makanan untuk hari ini.
+		2. Maryam **akan pergi** ke Jakarta besok.
+	4. Larangan
+		1. Wahai anakku, **janganlah bermain** di jalan raya!
+2. Pola fi'il mudhori' **dasar** (yang berasal dari 3 huruf) ada 3:
+	1. Yaf'alu
+	2. Yaf'ilu
+	3. Yaf'ulu
+3. Pola di atas tidak ditentukan oleh pola fi'il madhi-nya.
+	1. Fi'il madhi yang berpola "fa'ala" bisa saja pola fi'il mudhori'-nya untuk suatu fi'il adalah "yaf'alu", untuk fi'il yang adalah "yaf'ulu", dan yang lainnya bisa "yaf'ilu".
+4. Perubahan fi'il madhi yang terdiri dari 3 huruf menjadi fi'il mudhori itu bersifat **sama'i** (سماعي). Harus dihafal.
+	1. Sama'i adalah sebutan untuk tata bahasa yang hanya bisa diketahui melalui apa yang didengar dari ucapan orang Arab. Tidak bisa diukur aturan atau pola tertentu.
+	2. Lawan sama'i adalah **qiyasi**.
+## Tamrin 6 : Hitungan 20-30
+1. Untuk 20 ke atas, bilangan dibagi 2, yaitu puluhan dan satuan.
+2. Urutannya selalu:
+	1. "satuan" + و  + "puluhan" + ma'dud
+3. Ma'dud untuk bilangan 20 ke atas, sama seperti bilangan 11-19, yaitu:
+	1. mufrod
+	2. diakhiri fathah dan tanwin
+	3. tanpa ال
+4. Bilangan satuan di sini selalu:
+	1. Tanpa ال
+	2. Diakhiri tanwin
+	3. Berlawan dengan ma'dud dari segi mudzakkar dan muannats, kecuali 1 dan 2.
+	4. Harakat bisa berubah-ubah antara dhommah, fathah, dan kasroh.
+5. Puluhannya selalu diakhiri dengan ون atau ين
