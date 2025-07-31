@@ -1,11 +1,11 @@
 ---
 date: 2025-07-23T17:04
-modified: 2025-07-23T17:49
+modified: 2025-07-31T09:27
 title: 
 tags:
   - durusullughoh
 aliases: 
-publish: "false"
+publish: "true"
 ---
 ## Tamrin 3 : Mengenal Fi'il Mudhori'
 1. Fi'il Mudhori' adalah fi'il yang digunakan untuk:
@@ -42,3 +42,32 @@ publish: "false"
 	3. Berlawan dengan ma'dud dari segi mudzakkar dan muannats, kecuali 1 dan 2.
 	4. Harakat bisa berubah-ubah antara dhommah, fathah, dan kasroh.
 5. Puluhannya selalu diakhiri dengan ون atau ين
+## Tamrin 8 : "Mubakkiron" dan "Mutaakkhiron" (Penggunaan kata sifat untuk perbuatan)
+1. "Mubakkiron" artinya "lebih awal dari waktu yang ditentukan"
+2. "Mutaakhhiron" artinya "terlambat"
+3. Keduanya adalah contoh penggunaan kata sifat untuk mendeskripsikan keadaan pelaku/fa'il ketika melakukan suatu perbuatan.
+4. Kata sifat yang digunakan seperti ini, punya ketentuan:
+	1. Nakirah, tanpa ال, diakhiri tanwin
+	2. Berakhiran fathah
+	3. Mengikuti pelaku/fa'il dari segi:
+		1. Mudzakkar dan muannats
+		2. Mufrod, mutsanna, dan jama'
+## Tamrin 9 : Mengenalkan Keterangan untuk Menjelaskan Intensitas/Frekuensi Perbuatan.
+1. 'Da-iman' artinya "selalu"
+2. 'Ahyanan' artinya 'terkadang' atau 'kadang-kadang'
+3. 'Marrotan ukhro' artinya 'sekali lagi'
+4. Kata-kata di atas tidak ada kaitannya dengan fa'il (beda dari yang di tamrin 8), sehingga tidak terpengaruh fa'il. Selalu sama, siapa pun fai'lnya.
+## Mufrodat Baru
+
+| **Mufrodat** | **Arti**                             |
+| ------------ | ------------------------------------ |
+| مكتب         | Kantor; meja tulis atau meja kerja   |
+| عامل ج عمال  | Pekerja; buruh; pegawai; karyawan    |
+| طول          | tinggi atau panjang benda            |
+| عرض          | lebar benda                          |
+| مسافة        | jarak                                |
+| عمل          | bekerja; beramal                     |
+| فعل          | berbuat; melakukan                   |
+| ركب          | mengendarai; menaiki kendaraan       |
+| ركع          | rukuk; membungkuk untuk penghormatan |
+| سجد          | sujud                                |
