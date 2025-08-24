@@ -1,11 +1,11 @@
 ---
-title: 
+title:
 tags:
   - durusullughoh
-aliases: 
-modified: 2025-07-20T21:07
+aliases:
+modified: 2025-08-24T19:36
 created: 2025-07-02T22:48
-date: 
+date: 2025-07-02T22:48:00
 publish: "true"
 ---
 ## Tamrin 5 : Pengenalan kata عاصمة

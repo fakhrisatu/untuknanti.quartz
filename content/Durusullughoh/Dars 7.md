@@ -1,11 +1,11 @@
 ---
-title: 
+title:
 tags:
   - durusullughoh
-aliases: 
-modified: 2025-07-20T20:54
+aliases:
+modified: 2025-08-24T19:36
 created: 2025-07-18T11:21
-date: 
+date: 2025-07-18T11:21:00
 publish: "true"
 ---
 - # Tamrin 4

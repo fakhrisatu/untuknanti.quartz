@@ -1,9 +1,10 @@
 ---
 date: 2025-08-06T14:42
-modified: 2025-08-13T18:04
-title: 
-tags: 
-aliases: 
+modified: 2025-08-24T19:34
+title:
+tags:
+  - durusullughoh
+aliases:
 publish: "true"
 ---
 ## Tamrin 4 : Fi'il Mudhari untuk Orang Ketiga Muannats dan Jama'
