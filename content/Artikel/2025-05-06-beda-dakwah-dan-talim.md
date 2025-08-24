@@ -3,9 +3,9 @@ title: Beda Dakwah dan Ta'lim
 tags:
   - dakwah
   - taklim
-modified: 2025-05-22T15:50:17+08:00
+modified: 2025-08-24T19:46
 created: 2025-05-12T07:53:32+08:00
-date: 2025-05-06T16:08:35.730Z
+published: 2025-05-06T16:08:35.730Z
 publish: "true"
 ---
 

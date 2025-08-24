@@ -3,9 +3,9 @@ title:
 tags:
   - durusullughoh
 aliases:
-modified: 2025-08-24T19:36
+modified: 2025-08-24T19:44
 created: 2025-07-18T11:21
-date: 2025-07-18T11:21:00
+published: 2025-07-18T11:21:00
 publish: "true"
 ---
 - # Tamrin 4

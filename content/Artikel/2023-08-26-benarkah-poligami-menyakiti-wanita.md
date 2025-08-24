@@ -4,9 +4,9 @@ tags:
   - salafcenter
   - syubhat
   - poligami
-modified: 2025-05-12T22:53:17+08:00
+modified: 2025-08-24T19:46
 created: 2023-08-26T07:53:59+08:00
-date: 2023-08-26T07:53:59+08:00
+published: 2023-08-26T07:53:59+08:00
 publish: "false"
 ---
 

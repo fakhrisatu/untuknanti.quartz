@@ -3,10 +3,10 @@ title: Masalah Kajian Berbayar yang Sebenarnya
 tags:
   - kajianberbayar
   - polemik
-aliases: 
-modified: 2025-05-28T13:25:52+08:00
+aliases:
+modified: 2025-08-24T19:48
 created: 2025-05-25T21:26:33+08:00
-date: 2025-05-25T21:26:33+08:00
+published: 2025-05-25T21:26:33+08:00
 publish: "true"
 ---
 Belakangan ini marak pembahasan kajian berbayar dan hukumnya yang menuai berbagai reaksi, antara pro dan kontra. Secara keilmuan, para ulama sudah membahas hukum mengambil upah untuk pengajar ilmu syar'i. Jumhur mengatakan itu hukumnya boleh dan pendapat ini insya Allah lebih kuat. Tetap saja, ada hal yang mengganjal hati ketika melihat fenomena kajian berbayar ini, namun sulit mengungkapkannya. Di satu sisi, sulit membantah hujjah yang terkait kebolehan kajian berbayar. Di sisi lain, hati ini merasa ada sesuatu yang tidak baik padanya.

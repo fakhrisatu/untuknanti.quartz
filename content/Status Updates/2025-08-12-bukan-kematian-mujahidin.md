@@ -4,10 +4,11 @@ tags:
   - palestine
   - gaza
   - jihad
-aliases: 
-modified: 2025-08-13T16:29
-date: 2025-08-06T14:39
+aliases:
+modified: 2025-08-24T19:49
+published: 2025-08-06T14:39
 publish: "true"
+created: 2025-08-06T14:39
 ---
 Allah berfirman:
 

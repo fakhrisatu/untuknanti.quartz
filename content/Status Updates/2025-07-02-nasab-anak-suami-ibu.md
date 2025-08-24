@@ -6,10 +6,10 @@ tags:
   - walinikah
   - nasab
   - zina
-aliases: 
-modified: 2025-07-02T22:24:03+08:00
-created: 
-date: 
+aliases:
+modified: 2025-08-24T19:48
+created: 2025-08-24T19:37
+published:
 publish: "false"
 ---
 ![[Pasted image 20250702220514.png]]

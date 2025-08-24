@@ -1,11 +1,12 @@
 ---
-date: 2025-08-06T14:42
-modified: 2025-08-24T19:34
+created: 2025-08-06T14:42
+modified: 2025-08-24T19:46
 title:
 tags:
   - durusullughoh
 aliases:
 publish: "true"
+published: 2025-08-06T14:42
 ---
 ## Tamrin 4 : Fi'il Mudhari untuk Orang Ketiga Muannats dan Jama'
 1. Fi'il mudhori' mengalami perubahan sesuai dengan jenis pelakunya.

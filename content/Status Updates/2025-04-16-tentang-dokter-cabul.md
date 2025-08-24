@@ -1,14 +1,16 @@
 ---
 title: Dokter Cabul 2025
-date: 2025-04-16T01:29:03.234Z
+published: 2025-04-16T01:29:03.234Z
 categories:
-    - status update
+  - status update
 tags:
-    - khalwat
-    - mahram
-    - dokter
+  - khalwat
+  - mahram
+  - dokter
 topics: ""
 featured: false
+created: 2025-04-16T01:29:03.234Z
+modified: 2025-08-24T19:47
 ---
 
 Wanita tidak boleh memeriksakan diri ke ke dokter laki-laki kecuali dalam keadaan berikut:

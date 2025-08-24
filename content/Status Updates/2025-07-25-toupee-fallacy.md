@@ -1,10 +1,11 @@
 ---
-date: 2025-08-06T14:39
-modified: 2025-08-12T22:20
-title: 
-tags: 
-aliases: 
+published: 2025-08-06T14:39
+modified: 2025-08-24T19:48
+title:
+tags:
+aliases:
 publish: "false"
+created: 2025-08-24T19:37
 ---
 "Toupee" itu adalah jenis rambut palsu yang hanya menutupi kepala bagian atas saja. Biasanya yang menggunakannya adalah laki-laki yang sudah mulai mengalami kebotakan. Bagian atasnya kepalanya dicukur gundul, lalu dipasang toupee yang menempel di kulit dengan sejenis lem khusus.
 

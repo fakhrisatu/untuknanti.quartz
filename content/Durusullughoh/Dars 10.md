@@ -1,11 +1,12 @@
 ---
-date: 2025-07-23T17:04
-modified: 2025-07-31T09:27
-title: 
+created: 2025-07-23T17:04
+modified: 2025-08-24T19:45
+title:
 tags:
   - durusullughoh
-aliases: 
+aliases:
 publish: "true"
+published: 31/07/2025, 09:27
 ---
 ## Tamrin 3 : Mengenal Fi'il Mudhori'
 1. Fi'il Mudhori' adalah fi'il yang digunakan untuk:

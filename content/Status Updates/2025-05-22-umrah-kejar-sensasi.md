@@ -2,10 +2,10 @@
 title: Stop Umrah Kejar Sensasi
 tags:
   - umrah
-aliases: 
-modified: 2025-05-25T21:37:38+08:00
+aliases:
+modified: 2025-08-24T19:47
 created: 2025-05-22T16:50:00+08:00
-date: 2025-05-22T16:50:00+08:00
+published: 2025-05-22T16:50:00+08:00
 publish: "true"
 comments: "true"
 ---

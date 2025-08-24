@@ -3,9 +3,9 @@ title: Babi Halal Kalau Bersih?
 tags:
   - syubhat
   - babi
-modified: 2025-05-22T15:50:47+08:00
+modified: 2025-08-24T19:46
 created: 2025-04-23T09:30:28+08:00
-date: 2025-04-23T09:30:28.478Z
+published: 2025-04-23T09:30:28.478Z
 publish: "true"
 ---
 

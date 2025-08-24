@@ -1,8 +1,9 @@
 ---
-title: 
-tags: 
-aliases: 
-modified: 2025-08-06T16:58
-date: 2025-08-06T14:39
+title:
+tags:
+aliases:
+created: 2025-08-24T19:37
+modified: 2025-08-24T19:43
+published: 2025-08-06T14:39
 publish: "false"
 ---
