@@ -5,10 +5,10 @@ tags:
   - tarbiyah
   - tarbiyah-islamiyyah
 aliases:
-modified: 2025-08-24T19:49
-published: 2025-08-06T14:39
+modified: 2025-08-24T19:51
+published: 2025-08-23T19:49
 publish: "true"
-created: 2025-08-06T14:39
+created: 2025-08-23T19:49
 ---
 Pentingnya pendidikan anak bisa diketahui dengan melihat dampak mengabaikan pendidikan anak pada masyarakat. Di antaranya:
 
