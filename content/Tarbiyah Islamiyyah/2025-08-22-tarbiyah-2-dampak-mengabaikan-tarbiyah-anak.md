@@ -5,7 +5,7 @@ tags:
   - tarbiyah
   - tarbiyah-islamiyyah
 aliases:
-modified: 2025-08-24T19:51
+modified: 2025-08-30T18:21
 published: 2025-08-23T19:49
 publish: "true"
 created: 2025-08-23T19:49
@@ -58,5 +58,5 @@ Di antara hal yang menunjukkan pentingnya mempelajari metode tarbiyah yang benar
 2. Merusak tatanan pengajaran ilmu yang benar dan menyebarkan pengajaran yang justru menyebarkan kejahilan dan menjauhkan manusia dari agama yang benar dan akhlak yang mulia.
 3. Merusak tatanan keluarga dan keharmonisan rumah tangga dengan berbagai cara. Di antara cara terbesarnya adalah mengajak para wanita untuk keluar rumah, menenggelamkannya dalam gemerlap duniawi,  dengan nama “pembebasan wanita” dan “kesetaraan gender”.
 4. Berusaha menjauhkan kaum muslimin dari metode pendidikan yang syar’i, dan melemahkan peran lembaga atau badan keagamaan, sehingga mereka tidak bisa menjalankan peran mereka di bidang tersebut sebagaimana mestinya.
----
+
 [^1]: Tuhfatul Maulud 229
