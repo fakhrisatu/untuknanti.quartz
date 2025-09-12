@@ -1,6 +1,6 @@
 ---
 created: 2025-08-24T19:37
-modified: 2025-09-12T13:46
+modified: 2025-09-12T18:45
 title: Tarbiyah (3) - Keutamaan Mendidik Anak
 tags:
   - parenting
@@ -8,6 +8,7 @@ tags:
   - pendidikan
   - tarbiyah
 aliases:
+  - Tarbiyah (3) - Keutamaan Mendidik Anak
 published: 2025-08-30T18:21:00
 publish: "true"
 ---
@@ -61,8 +62,9 @@ Di antara pendidikan yang baik untuk anak-anak adalah membimbing mereka untuk me
 >  *“…dan dikenakan kepada kedua orang tuanya dua perhiasan yang tidak bisa dinilai oleh penduduk dunia. Maka mereka berdua berkata, ‘Mengapa ini dikenakan kepada kami?’. Maka dijawab, ‘Karena anak kalian berdua telah menghafal Al-Qur’an.”*[^6]
 
 ---
-Sebelumnya : [[2025-08-22-tarbiyah-2-dampak-mengabaikan-tarbiyah-anak]]
-Berikutnya : [[2025-09-01-tarbiyah-4-metode-tarbiyah-1]]
+Sebelumnya : [[2025-08-22-tarbiyah-2-dampak-mengabaikan-tarbiyah-anak|Tarbiyah (2) - Dampak Mengabaikan Pendidikan Anak bagi Masyarakat]]
+
+Berikutnya : [[2025-09-01-tarbiyah-4-metode-tarbiyah-1|Tarbiyah (4) - Metode Tarbiyah 1 - Pengajaran]]
 
 [^1]: HR. Muslim: 4831
 [^2]: HR. Muslim: 3084

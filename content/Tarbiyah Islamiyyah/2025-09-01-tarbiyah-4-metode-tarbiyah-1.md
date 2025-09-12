@@ -1,6 +1,6 @@
 ---
 created: 2025-09-01T17:59:00
-modified: 2025-09-12T13:46
+modified: 2025-09-12T18:45
 title: Tarbiyah (4) - Metode Tarbiyah 1 - Pengajaran
 tags:
   - tarbiyah
@@ -8,11 +8,13 @@ tags:
   - parenting
   - pendidikan
 aliases:
+  - Tarbiyah (4) - Metode Tarbiyah 1 - Pengajaran
 published: 2025-09-12T14:39:00
 publish: "true"
 ---
 Al-Qur’an Al-Karim adalah buku petunjuk dari Allah dalam segala hal, mencakup segala aspek kehidupan. Allah ﷾ berfirman,
 > وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَاناً لِكُلِّ شَيْءٍ وَهُدىً وَرَحْمَةً وَبُشْرَى لِلْمُسْلِمِينَ
+> 
 > *”Dan telah Kami turunkan atasmu (hai Muhammad) sebagai penjelasan untuk segala sesuatu, dan juga sebagai petunjuk, rahmat, dan kabar gembira bagi orang-orang yang berserah diri”* (QS. An-Nahl: 89)
 
 Dan apa yang disebutkan secara global oleh Al-Qur’an maka As-Sunnah yang sahih menjadi penjelasnya.
@@ -34,47 +36,55 @@ Pengajaran adalah metode dasar dalam tarbiyah islamiyyah. Allah ﷾ memuliakan m
 
 Allah ta’ala berfirman:
 > هَذَا بَيَانٌ لِلنَّاسِ وَهُدىً وَمَوْعِظَةٌ لِلْمُتَّقِينَ
+> 
 > *“Inilah penjelasan untuk manusia, serta petunjuk dan petuah untuk orang-orang yang bertakwa”* (QS Ali Imron: 138)
 
 Allah ﷾ juga berfirman:
 > يَا أَيُّهَا النَّاسُ قَدْ جَاءَتْكُمْ مَوْعِظَةٌ مِنْ رَبِّكُمْ وَشِفَاءٌ لِمَا فِي الصُّدُورِ وَهُدىً وَرَحْمَةٌ لِلْمُؤْمِنِينَ
+> 
 > *“Wahai manusia, telah datang kepada kalian petuah dari Rabb kalian dan kesembuhan untuk (penyakit) yang ada di dalam dada, juga petunjuk dan rahmat bagi orang-orang yang beriman”* (QS Yunus: 57)
 
 Nabi kita ﷺ juga menjadikan metode ini sebagai pokok dalam berdakwah dan dalam mendidik para sahabatnya sebagaimana disebutkan oleh Al-Qur’an dan hadits-hadits. Sahabat Abdullah bin Mas’ud ﵁ mengatakan, 
 >  كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَتَخَوَّلُنَا بِالْمَوْعِظَةِ فِي الْأَيَّامِ كَرَاهَةَ السَّآمَةِ عَلَيْنَا
->  *“Nabi ﷺ dahulu menyela-nyela wejangan kepada kami dalam beberapa hari karena beliau tidak ingin kami merasa bosan”*[^1]
+> 
+*“Nabi ﷺ dahulu menyela-nyela wejangan kepada kami dalam beberapa hari karena beliau tidak ingin kami merasa bosan”*[^1]
 
 Mua’wiyah bin Al-Hakam As-Sulamiy mengatakan tentang pengajaran Rasulullah ﷺ, 
 > فَبِأَبِي هُوَ وَأُمِّي مَا رَأَيْتُ مُعَلِّمًا قَبْلَهُ وَلَا بَعْدَهُ أَحْسَنَ تَعْلِيمًا مِنْهُ
-> “Demi ayah dan ibuku, aku tidak pernah melihat seorang pengajar sebelum beliau, maupun setelah beliau, yang lebih baik cara mengajarnya dari beliau”[^2]
+
+> *“Demi ayah dan ibuku, aku tidak pernah melihat seorang pengajar sebelum beliau, maupun setelah beliau, yang lebih baik cara mengajarnya dari beliau”*[^2]
 
 Rasulullah ﷺ juga bersabda,
 > إِنَّ اللَّهَ لَمْ يَبْعَثْنِي مُعَنِّتًا وَلَا مُتَعَنِّتًا وَلَكِنْ بَعَثَنِي مُعَلِّمًا مُيَسِّرًا
-> “Sesungguhnya Allah tidak mengutusku untuk menyusahkan atau mencelakakan orang, tetapi aku diutus untuk mengajarkan dan memudahkan”[^3]
+> 
+> *“Sesungguhnya Allah tidak mengutusku untuk menyusahkan atau mencelakakan orang, tetapi aku diutus untuk mengajarkan dan memudahkan”*[^3]
 
 Pengajaran dari Nabi ﷺ ada yang berkaitan dengan kejadian tertentu, ada pula yang dimulai tanpa sebab, tidak terikat dengan kejadian tertentu. Contohnya pengajaran yang tanpa sebab adalah hadits Nabi ﷺ kepada Ibnu Abbas ketika mereka berdua bersama sedang menaiki kendaraan Rasulullah ﷺ. Beliau bersabda,
 > يَا غُلَامُ إِنِّي أُعَلِّمُكَ كَلِمَاتٍ احْفَظْ اللَّهَ يَحْفَظْكَ احْفَظْ اللَّهَ تَجِدْهُ تُجَاهَكَ
-> “Hai anak, sesungguhnya aku mengajarimu beberapa kalimat. Jagalah Allah niscaya Ia menjagamu. Jagalah Allah niscaya kau akan mendapatiNya di hadapanmu.”[^4]
+> 
+> *“Hai anak, sesungguhnya aku mengajarimu beberapa kalimat. Jagalah Allah niscaya Ia menjagamu. Jagalah Allah niscaya kau akan mendapatiNya di hadapanmu.”*[^4]
 
 Begitu pula ayat-ayat Al-Qur’an yang turun dari Allah tanpa sebab. Itu termasuk contoh dalam metode pengajaran ini.
 
 Dalam pelaksanaannya, ada beberapa hal yang perlu diperhatikan agar metode ini bisa efektif, yaitu: persiapan, bertahap, dan rutin.
 
-### Persiapan
+### Kunci Pertama: Persiapan
 Maksud dari persiapan adalah menentukan waktu di mana hati anak itu siap menerima pengajaran yang akan disampaikan. Jauhi waktu-waktu di mana hati anak itu tersibukkan dengan hal lain, seperti ketika baru bangun tidur dan anak-anak masih melawan ngantuk dan mengumpulkan kesadaraannya, atau di waktu anak-anak biasa bermain. Maka perlu mencari dan memanfaatkan waktu di mana perhatian anak itu utuh, hatinya lembut, terutama jika yang disampaikan adalah hal yang mungkin sulit diterima jiwa anak.
 
 Termasuk juga dari mencari waktu yang pas adalah menunggu kematangan akal, emosi, dan fisik anak tergantung apa yang akan disampaikan. Jangan menyampaikan sesuatu yang belum bisa dipahami oleh anak, atau memerintahkan sesuatu yang belum bisa ia lakukan, atau masih berat untuk dia kerjakan. Oleh karenanya, Rasulullah ﷺ mengajarkan agar anak baru diperintah untuk sholat ketika mereka berusia 7 tahun karena di usia itulah, anak biasanya sudah bisa memahami apa tujuan shalat, apa yang harus dilakukan ketika shalat. Hal sama juga dilakukan dengan perintah-perintah dan larangan-larangan yang lain.
 
 Ibnu Badran berkata,
 > ينبغي أن يكون المعلم حكيما يتصرف في طرق التعليم بحسب ما يراه موافقا لاستعداد المتعلم وإلا ضاع الوقت بقليل من الفائدة ، وربما لم توجد الفائدة أصلا
+> 
 > “Hendaknya seorang pengajar itu adalah orang yang bijak. Dia mengatur pengajarannya sesuai dengan kesiapan murid. Jika tidak, maka waktunya akan terbuang karena hanya meraih faedah yang sedikit, atau bahkan tidak berfaedah sama sekali”[^5]
 
-## Tadarruj (Bertahap)
+## Kunci Kedua: Tadarruj (Bertahap)
 Tadarruj artinya mengajari anak sedikit demi sedikit seperti halnya Al-Qur’an yang diturunkan secara bertahap dalam membawa syari’at, sehingga para sahabat bisa meenghafal, memahami, dan mengamalkannya secara menyeluruh. Setiap kali diturunkan ayat, para sahabat segera menghafalkan dan mengamalkannya. Andai Al-Qur’an diturunkan secara utuh, pasti sulit bagi para sahabat untuk melakukan itu.
 
 Hal ini juga ditunjukkan oleh pesan Nabi ﷺ kepada Mu’adz bin Jabal ketika beliau mengutusnya ke Yaman. Beliau bersabda,
 >  إِ نَّكَ تَقْدَمُ عَلَى قَوْمٍ مِنْ أَهْلِ الْكِتَابِ فَلْيَكُنْ أَوَّلَ مَا تَدْعُوهُمْ إِلَى أَنْ يُوَحِّدُوا اللَّهَ تَعَالَى فَإِذَا عَرَفُوا ذَلِكَ فَأَخْبِرْهُمْ أَنَّ اللَّهَ قَدْ فَرَضَ عَلَيْهِمْ خَمْسَ صَلَوَاتٍ فِي يَوْمِهِمْ وَلَيْلَتِهِمْ فَإِذَا صَلَّوْا فَأَخْبِرْهُمْ أَنَّ اللَّهَ افْتَرَضَ عَلَيْهِمْ زَكَاةً فِي أَمْوَالِهِمْ تُؤْخَذُ مِنْ غَنِيِّهِمْ فَتُرَدُّ عَلَى فَقِيرِهِمْ فَإِذَا أَقَرُّوا بِذَلِكَ فَخُذْ مِنْهُمْ وَتَوَقَّ كَرَائِمَ أَمْوَالِ النَّاسِ 
->  “Sesungguhnya engkau akan mendatangi suatu kaum dari kalangan Ahlul Kitab. Maka hendaknya hal pertama yang engkau dakwahkan pada mereka adalah agar mereka mentauhidkan Allah ta’ala. Jika mereka sudah tahu (menerima) itu, maka beritahu mereka bahwa Allah telah mewajibkan atas mereka untuk melakukan shalat lima waktu di waktu siang dan malam. Jika mereka sudah melaksanakan shalat, maka beritahu mereka bahwa Allah mewajibkan atas mereka untuk mengeluarkan zakat dari harta mereka yang diambil dari orang-orang kaya mereka dan dibagikan kepada orang-orang faqir mereka. Jika mereka menerima itu, maka ambillah dan jauhilah yang mulia dari harta-harta mereka”[^6]
+> 
+>  *“Sesungguhnya engkau akan mendatangi suatu kaum dari kalangan Ahlul Kitab. Maka hendaknya hal pertama yang engkau dakwahkan pada mereka adalah agar mereka mentauhidkan Allah ta’ala. Jika mereka sudah tahu (menerima) itu, maka beritahu mereka bahwa Allah telah mewajibkan atas mereka untuk melakukan shalat lima waktu di waktu siang dan malam. Jika mereka sudah melaksanakan shalat, maka beritahu mereka bahwa Allah mewajibkan atas mereka untuk mengeluarkan zakat dari harta mereka yang diambil dari orang-orang kaya mereka dan dibagikan kepada orang-orang faqir mereka. Jika mereka menerima itu, maka ambillah dan jauhilah yang mulia dari harta-harta mereka”*[^6]
 
 Ucapan beliau “dari kalangan Ahlul Kitab” bukan sebagai pembatasan bahwa dakwah Mu’adz bin Jabal hanya untuk mereka, tetapi untuk mengenalkan sang da’i atau pengajar tentang siapa yang akan menjadi sasaran dakwahnya.
 
@@ -85,18 +95,20 @@ Ada beberapa hal yang bisa diambil dari hadits di atas. Di antaranya,
 ## Mudawamah (Konsisten)
 Hal ini ditunjukkan oleh hadits Abdullah bin Mas’ud yang sudah disebutkan sebelumnya, bahwa Rasulullah biasa membagi suatu ajaran ke dalam beberapa hari. Begitu pula sabda Nabi ﷺ,
 >  أَحَبَّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ
->  “Amal yang paling dicintai oleh Allah adalah amal yang paling konsisten meskipun sedikit”[^7]
+>  
+>  *“Amal yang paling dicintai oleh Allah adalah amal yang paling konsisten meskipun sedikit”*[^7]
 
 Allah ﷾ berfirman, 
 > وَأْمُرْ أَهْلَكَ بِالصَّلَاةِ وَاصْطَبِرْ عَلَيْهَا
-> “Dan perintahkan keluargamu untuk mendirikan shalat dan bersabarlah dalam itu” (QS. Thoha: 132)
+> 
+> *“Dan perintahkan keluargamu untuk mendirikan shalat dan bersabarlah dalam itu”* (QS. Thoha: 132)
 
 Maksudnya, “Bersabarlah, wahai Muhammad, dalam melaksanakan shalat dan terus menerus memerintahkan itu.”
 
 Inilah hal pertama yang harus jadi perhatian seorang pendidik. Dia harus menjaga agar nasihat dan pengajaran itu berjalan dengan berkesinambungan meskipun sedikit demi sedikit. Namun, yang sering terjadi ada kebalikannya. Sering kita dapati seorang pendidik menyampaikan wejangan dalam waktu yang panjang sehingga para murid/anak-anak merasa bosan dan tidak menerima nasihat itu dengan baik. Tentu hal ini tidaklah tepat sebab di antara nilai-nilai yang terkandung dalam kata *tarbiyah* adalah menumbuhkan, perawatan, penjagaan, dan pendidikan yang berulang-ulang.
 
 ---
-Sebelumnya : [[2025-08-30-tarbiyah-3-keutamaan-mendidik-anak]] 
+Sebelumnya : [[2025-08-30-tarbiyah-3-keutamaan-mendidik-anak|Tarbiyah (3) - Keutamaan Mendidik Anak]] 
 
 
 [^1]: HR. Al-Bukhari: 68, HR.Muslim: 2821
