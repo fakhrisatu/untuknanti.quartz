@@ -1,11 +1,12 @@
 ---
 created: 2025-08-24T19:37
-modified: 2025-08-30T18:23
+modified: 2025-09-12T13:46
 title: Tarbiyah (3) - Keutamaan Mendidik Anak
 tags:
   - parenting
   - tarbiyahIslamiyyah
   - pendidikan
+  - tarbiyah
 aliases:
 published: 2025-08-30T18:21:00
 publish: "true"
@@ -58,6 +59,10 @@ Allah juga memuliakan seorang hambanya dengan menyebut namanya dalam Al-Qur’an
 Di antara pendidikan yang baik untuk anak-anak adalah membimbing mereka untuk menghafal Al-Qur’an. Nabi bersabda tentang balasan para penghafal Al-Qur’an di hari kiamat nanti,
 >  ويكسى والداه حلتان لا يقوم لهما أهل الدنيا فيقولان بما كسينا هذا فيقال بأخذ ولدكما القرآن
 >  *“…dan dikenakan kepada kedua orang tuanya dua perhiasan yang tidak bisa dinilai oleh penduduk dunia. Maka mereka berdua berkata, ‘Mengapa ini dikenakan kepada kami?’. Maka dijawab, ‘Karena anak kalian berdua telah menghafal Al-Qur’an.”*[^6]
+
+---
+Sebelumnya : [[2025-08-22-tarbiyah-2-dampak-mengabaikan-tarbiyah-anak]]
+Berikutnya : [[2025-09-01-tarbiyah-4-metode-tarbiyah-1]]
 
 [^1]: HR. Muslim: 4831
 [^2]: HR. Muslim: 3084

@@ -1,6 +1,6 @@
 ---
 created: 2025-08-06T14:42
-modified: 2025-08-24T19:46
+modified: 2025-09-03T17:39
 title:
 tags:
   - durusullughoh
@@ -77,7 +77,40 @@ published: 2025-08-06T14:42
 3. Kaidahnya:
 	1. Kata أما selalu diikuti jumlah ismiyyah (mubtada-khobar)
 	2. Khobar setelah kata أما harus didahului dengan huruf فَ.
-	3. Jika khobar dimulai dengan harf, maka harus diberi dhomir yang sesuai dengan mubtada setelah huruf فَ.
-		1. Contoh: محمد من جاكارتا menjadi أما محمد فهو من جاكارتا
-	4. Kecuali, jika mubtada nya sudah berupa dhomir.
-		1. Contoh: أنا من جاكارتا menjadi أما أنا فمن جاكارتا
+	3. Jika khobar dimulai dengan harf atau isim, maka **sebaiknya** diberi dhomir yang sesuai dengan mubtada setelah huruf فَ.
+		1. Contoh: محمد من جاكارتا menjadi أما محمد فهو من جاكارتا, namun boleh tanpa dhomir, seperti أما محمد فمن جاكارتا
+		2. Contoh lain: 
+	    حفصة طبيبة في المستشفى
+		    menjadi
+		أما حفصة فهي طبيبة في المستشفى
+		   
+## Tamrin 15 : Penggunaan Isim Nakiroh yang Diikuti Lamul Milki untuk Makna "Salah Satu"
+1. Jika ada isim mufrod nakiroh lalu diikuti dengan lamul milki (لام الملك), maka artinya sama dengan kata أحد lalu diikuti dengan jamak dari isim tersebut 
+2. Contoh:
+	1. ذهبت مع أخ لأحمد (Saya pergi bersama salah satu saudara Ahmad)
+	2. مات ابن لحسن (Telah wafat salah seorang anak Hasan)
+## Mufrodat Baru
+
+| **Mufrodat** | **Arti**                                                  |
+| ------------ | --------------------------------------------------------- |
+| درس          | Belajar                                                   |
+| سكن          | Tinggal/menetap, **diam (tidak bergerak)**                |
+| شكر          | berterimakasih, bersyukur                                 |
+| نزل          | Turun, mampir (di sebuah daerah ketika safar)             |
+| بحث          | Mencari, membahas                                         |
+| صعد          | Bergerak naik                                             |
+| عرف          | Mengenal, mengerti (dalam konteks ilmu atau bahasa asing) |
+| مات          | mati                                                      |
+| نسيت         | saya lupa                                                 |
+| قريب         | kerabat                                                   |
+| عنوان        | alamat (konteks tempat), judul (tulisan atau karya)       |
+| بطاقة        | kartu                                                     |
+| محطة         | stasiun kereta, terminal bis (bus station)                |
+| ثوب          | baju/pakaian (secara umum)                                |
+| رسالة        | surat, pesan                                              |
+| حلاق         | tukang cukur                                              |
+| مستوصف       | klinik, puskesmas                                         |
+| صيدلية       | apotek                                                    |
+| أرز          | beras, nasi                                               |
+| قادم         | datang atau yang akan datang                              |
+| خيل          | kuda tunggangan                                           |

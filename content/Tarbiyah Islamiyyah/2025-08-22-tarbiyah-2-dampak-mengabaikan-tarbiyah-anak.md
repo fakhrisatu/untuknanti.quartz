@@ -3,9 +3,10 @@ title: Tarbiyah (2) - Dampak Mengabaikan Pendidikan Anak bagi Masyarakat
 tags:
   - parenting
   - tarbiyah
-  - tarbiyah-islamiyyah
+  - tarbiyahIslamiyyah
+  - pendidikan
 aliases:
-modified: 2025-08-30T18:21
+modified: 2025-09-12T13:46
 published: 2025-08-23T19:49
 publish: "true"
 created: 2025-08-23T19:49
