@@ -1,0 +1,45 @@
+---
+created: 2026-02-04T17:06
+modified: 2026-02-11T17:36
+---
+- Penggunaan kata أن sebelum fi'il mudhari'
+	- Fungsinya: 
+		- untuk memisahkan antara fi'il mudhari dari fi'il sebelumnya
+		- untuk menempatkan fi'il mudhari' pada tempat yang seharusnya ditempati oleh isim
+	- Kenapa setelah كاد/ يكاد tidak diberi أن?
+		- Karena fa'il atau subjek dari كاد dan fi'il setelahnya itu tidak bisa berbeda. Contoh:
+			- Ahmad hampir jatuh dari sepedanya.
+			- Jadi: كاد أحمد يسقط من دراجته
+		- Sedangkan fi'il أراد atau beberapa fi'il lainnya itu berbeda fa'il atau subjek antara fi'il يريد dengan fi'il setelahnya:
+			- Pak guru mau kamu datang ke sekolah besok
+			- Jadi : يريد المدرس أن تأتيَ إلى المدرسة غدا
+	- Keadaan fi'il mudhari' setelah أن itu ada 3 macam:
+		- Yang harus diakhiri dengan harakat fathah, yaitu fi'il mudhari' yang huruf terakhirnya adalah huruf aslinya.
+		- Yang harus dihilangkan huruf ن yang ada di akhirnya, yaitu fi'il mudhari' yang diakhir dengan huruf ن tambahan.
+		- Tidak mengalami perubahan
+- Mengenalkan I'rob
+	- Apa i'rob?
+		- I'rob adalah nama yang diberikan untuk perubahan-perubahan yang dialami oleh **isim atau fi'il**, yang **disebabkan oleh kata sebelumnya**.
+	- Macam-macam i'rob:
+		- Ar-Raf'u (الرفع)
+		- **An-Nashbu (النصب)**
+		- Al-Jarru (الجر)
+		- Al-Jazmu (الجزم)
+- An-Nashbu:
+		- Keadaan dimana suatu isim/fi'il harus diakhiri dengan fathah/dihilangkan huruf ن tambahan dari akhirnya
+		- Isim/fi'il yang mengalami ini disebut dengan **manshub**
+- .Tempat-tempat An-Nashb yang sudah kita pelajari:
+	- Isim:
+		- Maf'ul bih
+		- Ismu Inna (Isim setelah Inna)
+	- Fi'il mudhari':
+		- Setelah أن
+		- Setelah lam ta'lil (لِ)
+- Semua isim dan fi'il mudhari memiliki **keadaan asli rafa' atau marfu**'.
+- Setiap keadaan, memiliki tanda khusus yang disebut dengan 'alamah i'rob (علامة الإعراب).
+	- Tanda i'rob haruslah tanda yang mengalami perubahan ketika sebuah kata mengalami perubahan keadaan/i'rob.
+- **Mabni** adalah sebutan untuk kata yang tidak mengalami perubahan bentuk di setiap keadaan.
+- Pengenalan kata كَ (seperti)
+	- Harf كَ termasuk dari huruf jar.
+	- Penulisan كَ harus disambung dengan kata setelahnya
+- 
