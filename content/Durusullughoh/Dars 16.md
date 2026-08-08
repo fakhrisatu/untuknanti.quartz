@@ -1,0 +1,44 @@
+---
+created: 2025-11-26T17:14
+modified: 2025-12-12T07:39
+publish: "true"
+published: 12/12/2025
+---
+- Tamrin 5 : Pengenalan Warna Untuk Muannats
+	- Warna dalam bahasa Arab menggunakan wazan:
+		- Mudzakkar : أَفْعَلُ
+		- Muannats : فَعْلَاءُ
+	- Isim yang berbentuk أفعل - فعلاء tidak boleh di-tanwin
+	- **Tambahan**:
+		- Kata أسمر sudah tidak banyak dipakai. Sebagai gantinya: بني (Bunniy)
+		- Untuk warna-warna modern, tidak menggunakan pola di atas, tetapi menggunakan nisbah (isim yang diakhiri huruf ي musyadadah, sebelumnya berharakat kasroh) yang diambil dari benda-benda. Bisa bunga, tanaman, bijian, dll. Contoh:
+			- Pink : وردي (wardiy) diambil وردة (mawar)
+			- Ungu/violet : بنفسجي (banafsajiy) diambil dari بنفسج (bunga viola)
+			- Coklat : بني (bunniy) diambil dari بن (biji kopi)
+			- Abu-abu : رمادي (romadiy) diambil dari kata رماد (abu, sisa pembakaran)
+- Tamrin 9: Perbedaan Penulisan Umar dan Amr
+	- Umar (عمر) 
+		- tidak ada huruf tambahan setelahnya.
+		- tidak boleh diberi tanwin
+	- 'Amr (عمرو) 
+		- ada huruf tambahan yaitu:
+			- Wau jika berharakat akhir dhommah dan kasroh
+			- Alif jika berharakat akhir fathah
+		- selalu ditanwin
+- Tamrin 10 : Pengenalan kata Akhor dan Ukhro (yang lain/yang lainnya)
+- Tamrin 12 :  Penggunaan ذو dan ذا
+	- Kata ذو sering digunakan sebagai na'at.
+	- Kata ذو itu seperti dengan kata أب dan أخ, yaitu ketika menjadi mudhof, perubahan harakatnya harus diiringi dengan perubahan huruf setelahnya.
+	- Kaidah na'at: selalu mengikuti man'ut dalam setiap keadaanya.
+	- Ketika man'ut-nya diakhiri harakat fathah (manshub), maka kata ذو berubah menjadi ذا
+	- Tambahan: Ketika man'ut-nya berubah diakhiri dengan kasroh (majrur), maka kata ذو berubah menjadi ذي
+- Tamrin 13 : Pengenalan Ma Al-Maushulah (ما الموصولة)
+	- Ma al-maushulah berfungsi seperti الذي
+	- Bedanya dari الذي:
+		- Ma al-maushulah khusus untuk benda yang tidak berakal atau benda mati. Mencakup: hewan, tumbuhan, meja, kursi, dan lain-lain. Termasuk juga konsep atau benda maknawi, seperti : ilmu, iman, cinta, dsb.
+		- Lafazhnya tetap atau tidak mengalami perubahan bentuk.
+		- Tidak perlu diberi dhamir pada menunjuk kepadanya pada shilatul maushul-nya jika keterangannya sebagai maf'ul bih.
+	- Sudah mempelajari 3 macam ما:
+		- Ma Al-Istifhamiyyah (ما الاستفهامية) : kata tanya
+		- Ma An-Nafiyah (ما النافية) : penafian
+		- Ma Al-Maushulah (ما الموصولة) : kata sambung

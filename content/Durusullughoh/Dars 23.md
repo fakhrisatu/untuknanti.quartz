@@ -1,0 +1,40 @@
+---
+created: 2026-05-20T17:38
+modified: 2026-06-03T17:54
+---
+- Jamak Mudzakkar Salim
+	- Arti namanya: 
+		- jamak = bentuk jamak
+		- mudzakkar = khusus isim mudzakkar
+		-  salim = selamat dari perubahan
+	- Dinamai demikian karena bentuk/struktur huruf pada mufradnya, tidak mengalami perubahan (selamat dari perubahan)
+	- Cara pembentukannya:
+		- Isim mudzakkar + ونَ
+			- huruf sebelum tambahan و diberi harakat  dhammah
+			- Huruf و selalu sakinah
+			- Huruf ن selalu maftuhah
+	- Isim apa yang bisa diubah menjadi jamak mudzakkar salim? 
+		- **Pada umumnya** jamak mudzakkar salim diambil dari isim fa'il yang wazan/polanya adalah sebagai berikut:
+			- Fa'ilun فاعل
+			- Muf'ilun مفعل
+			- Mufa'ilun مفاعل
+			- Mufa''ilun مفعّل
+			- Mutafa'ilun متفاعل
+			- Mutafa''ilun متفعّل
+			- Mufta'ilun مفتعل
+			- Munfai'lun منفعل
+			- Mustaf'ilun مستفعل
+			- Isim nisbah (yang diakhiri dengan ya' musyaddah (tasydid) dan huruf sebelumnya maksuroh). Contoh: باكستاني (orang/benda dari Pakistan). Jamaknya باكستانيون
+		- Singkatnya, isim yang memberi makna: pekerjaan, pelaku sebuah perbuatan, atau status tertentu.
+	- **Catatan**: pada umumnya, semua isim dengan pola/wazan diatas bisa diubah menjadi jamak mudzakkar salim. Namun, tidak semua jamak mudzakkar salim itu dipakai dalam percakapan sehari-hari. **Atau** sebuah isim bisa memiliki dua jamak: satu jamak taksir dan satu lagi jamak mudzakkar salim, tetapi masing-masing jamak digunakan untuk makna yang berbeda.
+- Puluhan (ألفاظ **العقود**)
+	- Untuk bilangan puluhan, ma'dud (benda yang dihitung) selalu bentuk mufrad nakirah (tidak ada ال dan akhirannya tanwin) manshub 
+	- Tidak dibedakan antara mudzakkar dan muannats
+	- Hukum atau i'rabnya seperti jamak mudzakkar salim
+- Faidah:
+	- Kata أسرة (family) itu khusus untuk satuan keluarga inti: suami-istri (ayah-ibu) dan anak-anak (kakak-adik)
+		- Adapun keluarga besar (extended family) menggunakan kata أقرباء jamak dari قريب yang juga berarti kerabat.
+	- Beda هدية dan جائزة:
+		- Kata هدية khusus untuk pemberian yang diberikan tanpa sebab (cuma-cuma).
+		- Adapun جائزة khusus hadiah untuk prestasi tertentu. Contoh: hadiah lomba, penghargaan, dll.
+	- Kata قاعة sering diartikan aula. Tetapi, dia juga dipakai untuk ruang kuliah.

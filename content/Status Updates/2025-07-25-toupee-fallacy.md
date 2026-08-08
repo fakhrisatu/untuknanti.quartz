@@ -1,0 +1,12 @@
+---
+published: 2025-08-06T14:39
+modified: 2025-08-24T19:48
+title:
+tags:
+aliases:
+publish: "false"
+created: 2025-08-24T19:37
+---
+"Toupee" itu adalah jenis rambut palsu yang hanya menutupi kepala bagian atas saja. Biasanya yang menggunakannya adalah laki-laki yang sudah mulai mengalami kebotakan. Bagian atasnya kepalanya dicukur gundul, lalu dipasang toupee yang menempel di kulit dengan sejenis lem khusus.
+
+"Toupee fallacy" diambil dari komentar tentang toupee yang bunyinya, "Saya tidak pernah lihat toupee yang saya tidak tahu kalau itu rambut palsu." Sesat pikir dari kalimat ini terletak pada kenyataan bahwa jika ada toupee yang begitu bagus dan tidak bisa dibedakan dari rambut asli, orang itu tidak akan sadar kalau dia sedang melihat toupee yang bagus itu.
