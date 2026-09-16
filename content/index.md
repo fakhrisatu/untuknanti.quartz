@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-16T21:11:10+08:00
-modified: 2026-09-16T21:12:01+08:00
+modified: 2026-09-16T21:16:44+08:00
 ---
 
 # Bismillah
@@ -14,12 +14,12 @@ Berbeda dengan sebuah blog atau website lainnya, tulisan di taman digital ini le
 
 Terima kasih telah mengunjungi situs ini. Semoga bermanfaat
 
-## Contact Info:
+**Contact Info:**
+[WhatsApp](https://wa.me/6285608203056)
+[Instagram](https://www.instagram.com/fakhrisatu/)
+[Facebook](https://web.facebook.com/fakhruddin.ahmad.darwis)
+[Email](mailto:91ja0ele6@mozmail.com)
 
-| [WhatsApp](https://wa.me/6285608203056) | [Instagram](https://www.instagram.com/fakhrisatu/) | [Facebook](https://web.facebook.com/fakhruddin.ahmad.darwis) | [Email](mailto:91ja0ele6@mozmail.com) |
-| --------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------- |
-
-## Catatan Terbaru
-
+**Catatan Terbaru**
 | File | Created |
 | ---- | ------- |
