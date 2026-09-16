@@ -118,7 +118,7 @@ plugins:
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/unlisted-pages"
     enabled: true
     options: {}
@@ -237,6 +237,14 @@ plugins:
       priority: 50
   - source: "@quartz-community/recent-notes"
     enabled: true
+    options:
+      title: Tulisan Terbaru
+      limit: 5
+      linkToMore: true
+      showTags: false
+    layout:
+      position: left
+      priority: 25
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
