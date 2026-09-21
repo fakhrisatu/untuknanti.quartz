@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-16T21:11:10+08:00
-modified: 2026-09-16T21:16:44+08:00
+modified: 2026-09-16T21:31:35+08:00
 ---
 
 # Bismillah
